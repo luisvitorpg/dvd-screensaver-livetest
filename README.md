@@ -1,3 +1,3 @@
 # dvd-screensaver-customizable
 
-[View on GitHub Pages](https://forkpoweroutlet.github.io/dvd-screensaver-customizable) or download the repository if you're really that bored.
+[Visualizar previa no browser](https://luisvitorpg.github.io/dvd-screensaver-livetest) Este projeto serve para testar lives no youtube usando o recurso "Navegador" do OBS/Streamlabs
