@@ -8,10 +8,7 @@ function (callback) {
 
 // Create image and set to default if invalid input provided
 var image = new Image()
-image.src = prompt('Enter an image URL')
-image.onerror = function () {
-  image.src = './default.svg'
-}
+image.src = './dvd_img.jpg'
 
 // Ensure canvas shape has same dimensions as image
 image.onload = function () {
